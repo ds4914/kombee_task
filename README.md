@@ -1,17 +1,25 @@
-# kombee_task
+# Kombee Task App
 
-A new Flutter project.
+This is a Flutter-based mobile application developed as part of the **Kombee Task** project.
 
-## Getting Started
+## 🚀 Tech Stack
 
-This project is a starting point for a Flutter application.
+- **Flutter**: 3.29.2
+- **Dart**: 3.7.2
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 Flutter SDK Info
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter Channel**: stable
+- **Framework Revision**: c236373904 (2025-03-13)
+- **Engine Revision**: 18b71d647a
+- **DevTools**: 2.42.3
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# kombee_task
+## 🛠 Requirements
+
+- Flutter 3.29.2 or higher
+- Dart 3.7.2 or higher
+
+To check your environment, run:
+
+```bash
+flutter --version
